@@ -1,0 +1,22 @@
+{
+  "uploadEmployee": [
+    {
+      "id": "123",
+      "userName": "Anjanapm",
+      "email": "anjanapinky20@gmail.com",
+      "status": "Active"
+    },
+    {
+      "id": "345",
+      "userName": "Sreelekshmi",
+      "email": "sreeleksmi171@gmail.com",
+      "status": "Inactive"
+    },
+    {
+      "id": "678",
+      "userName": "Maria",
+      "email": "mariyabenny06@gmail.com",
+      "status": "Active"
+    }
+  ]
+}
